@@ -67,4 +67,7 @@ Xt = transpose(X)
 --[[
 Okay, I have reached the point where I have the matrices, 
 but now I do not see how the dimensions line up for the operations?
+
+Conclusion: Inverting a matrix in LUA is really hard without libraries,
+does not make sense to spend time on this but overall the conceptual understanding is good
 ]]
